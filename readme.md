@@ -7,10 +7,10 @@
 
 | ФИО | Почта | Telegram | Github |
 | ------------- | ------------- | ------------- | ------------- |
-| Шульгина Ирина Алексеевна | Ermolaev.ID@yandex.ru | [@Ermolaev_Ilya](https://t.me/ermolaev_ilya) | [Ссылка](https://github.com/ErmolaevID) |
-| Колтунов Матвей Максимович | Koltunov.matwei@gmail.com | [@Koltunov_Matthew](https://t.me/Koltunov_Matthew) | [Ссылка](https://github.com/echanatwell) |
-| Коробицын Дмитрий Кириллович | dimakorobitcyn@yandex.ru | [@magistrkanistr](https://t.me/magistrkanistr) | [Ссылка](https://github.com/FireFace1337) |
-| Непочатый Никита Владимирович | nick.nnepochatyy@mail.ru | [@DefinitelyNik](https://t.me/DefinitelyNik) | [Ссылка](https://github.com/Nikegdo) |
+| Шульгина Ирина Алексеевна | fredpery22@gmail.com |
+| Павлов Артем Андреевич | pavlovaa@urfu.me |
+| Нилогов Александр Александрович | sashan782@mail.ru|
+| Бейлис Алиса Александровна | Alicebeilis@mail.ru |
 
 ## Формат MVP
 ## Сервер
